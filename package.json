@@ -1,7 +1,7 @@
 {
   "name": "ajs",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Build Status](https://ci.appveyor.com/api/projects/status/github/anatolov/Classes-legasy)](https://ci.appveyor.com/api/projects/status/github/anatolov/Classes-legasy)",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -37,5 +37,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludmila2107/Matchers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ludmila2107/Matchers/issues"
+  },
+  "homepage": "https://github.com/ludmila2107/Matchers#readme"
 }

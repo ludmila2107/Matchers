@@ -28,3 +28,17 @@ test('Test ratePartic',() => {
   expect(rateParticpant(array)).toEqual(result);
   }
 );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
